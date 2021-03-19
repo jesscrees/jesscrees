@@ -1,7 +1,6 @@
 - 👋 Hi, I’m jess crees
 - 👀 I’m interested in computational creativity
 - 🌱 I’m currently learning React, Laravel, and WordPress
-- 📫 I'm @jess_crees on twitter
 
 <!---
 jesscrees/jesscrees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
