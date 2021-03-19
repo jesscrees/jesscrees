@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jess crees
 - 👀 I’m interested in computational creativity
-- 🌱 I’m currently learning React and Laravel
+- 🌱 I’m currently learning React, Laravel, and WordPress
 - 📫 I'm @jess_crees on twitter
 
 <!---
