@@ -1,5 +1,5 @@
-- 👋 Hi, I’m jess crees
-- 👀 I’m interested in computational creativity
+- 👋 Hi, I’m jess
+- 👀 I’m interested in efficient & robust web development & computational creativity
 - 🌱 I’m currently learning React, Laravel, and WordPress
 
 <!---
