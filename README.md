@@ -1,6 +1,6 @@
-- 👋 Hi, I’m jess
-- 👀 I’m interested in efficient & robust web development & computational creativity
-- 🌱 I’m currently learning React, Laravel, and WordPress
+- 👋 Hi, I’m Jess
+- 👀 I’m interested in carbon-neutral web development, computational creativity, and generative AI
+- 🌱 I’m currently learning how to build carbon-aware websites and how to use the OpenAI API
 
 <!---
 jesscrees/jesscrees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
